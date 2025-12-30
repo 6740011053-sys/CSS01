@@ -7,8 +7,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
-/* PRODUCT CARD */
 .product-card {
   background: white;
   width: 320px;
@@ -52,8 +50,6 @@ body {
 .add-to-cart:hover {
   background: #0056b3;
 }
-
-/* REQUIREMENTS */
 .requirements-box {
   background: white;
   padding: 30px;
@@ -69,8 +65,6 @@ body {
 .requirements-box li {
   margin-bottom: 12px;
 }
-
-/* LINK */
 .nav-link {
   margin-top: 20px;
   text-decoration: none;
